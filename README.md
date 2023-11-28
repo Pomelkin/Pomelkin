@@ -15,12 +15,12 @@ Hi there, i'm Emelyan
 ### :hammer_and_wrench: Languages and Tools :
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="100" height="100"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" width="200" height="200"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" width="200" height="200"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" width="150" height="150"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" width="150" height="150"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" width="100" height="100"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" width="200" height="200"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" width="150" height="150"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" width="100" height="100"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" width="200" height="200"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" width="150" height="150"/>&nbsp;
 </div>
 <!--
 **Pomelkin/Pomelkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
