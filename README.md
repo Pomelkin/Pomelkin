@@ -9,7 +9,7 @@ Hi there, i'm Emelyan
 - 🎓 Pursuing a bachelor's degree in **Applied Mathematics and Computer Science** at *Perm State University*
 - 🌱 Studying `CV`, `Deep Learning`, `statistics` and `algorithms`
 - 📚 Reading "Deep Learning with PyTorch" by Eli Stevens, Luca Antiga, and Thomas Viehmann
-- :mailbox:How to reach me:  [![Badge](https://img.shields.io/badge/Telegram-%232AABEE?logo=telegram)]((https://t.me/pomelk1n))
+- :mailbox:How to reach me:  [![Badge](https://img.shields.io/badge/Telegram-%232AABEE?logo=telegram)](https://t.me/pomelk1n)
 
 ---
 
