@@ -14,7 +14,7 @@ Hi there, i'm Emelyan
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
- <img src="icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="AWS" width="40" height="40"/>&nbsp;
+ <img src="icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
 </div>
 <!--
 **Pomelkin/Pomelkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
