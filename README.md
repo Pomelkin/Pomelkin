@@ -4,8 +4,8 @@ Hi there, i'm Emelyan
 </h1>
 
 ### :man_technologist: About Me :
-- 💻 I`m a Deep Learning Engineer specialising in Computer Vision.
-- ⚙️ Working on object detection and classification using `YOLO`, `ViTs`, `OpenCV` and other methods
+- 💻 I`m a **Deep Learning Engineer** specialising in **Computer Vision** .
+- ⚙️ Working on object detection and classification using `YOLO`, `ViTs`, `OpenCV` and other
 - 🎓 Pursuing a bachelor's degree in **Applied Mathematics and Computer Science** at *Perm State University*
 - 🌱 Studying `CV`, `Deep Learning`, `statistics` and `algorithms`
 - 📚 Reading "Deep Learning with PyTorch" by Eli Stevens, Luca Antiga, and Thomas Viehmann
