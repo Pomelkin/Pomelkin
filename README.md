@@ -19,7 +19,6 @@ Hi there, i'm Emelyan
  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" width="100" height="100"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" width="100" height="100"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" width="100" height="100"/>&nbsp;
- 
 </div>
 <!--
 **Pomelkin/Pomelkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
