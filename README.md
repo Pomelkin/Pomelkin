@@ -7,7 +7,8 @@ Hi there, i'm Emelyan
 - 💻 I`m a Deep Learning Engineer specialising in Computer Vision.
 - 🎓 Pursuing a bachelor's degree in **Applied Mathematics and Computer Science** at *Perm State University*
 - 🌱 Studying CV, Deep Learning, statistics and algorithms
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue)](@pomelk1n)
+- :mailbox:How to reach me:
+  [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue)]([(https://t.me/pomelk1n))
 <!--
 **Pomelkin/Pomelkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
