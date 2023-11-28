@@ -4,6 +4,9 @@ Hi there, i'm Emelyan
 </h1>
 
 ## :man_technologist: About Me :
+- 💻 I`m a Deep Learning Engineer specialising in CV.
+- 🎓 Pursuing a bachelor's degree in **Applied Mathematics and Computer Science** at *Perm State University*
+- 
 <!--
 **Pomelkin/Pomelkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
