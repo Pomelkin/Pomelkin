@@ -1,28 +1,54 @@
- <h1>
-Hi there, i'm Emelyan
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></img>
+<!-- README.md -->
+
+<h1 align="left">
+  Hi, I'm Emelyan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave" />
 </h1>
 
-### :man_technologist: About Me :
-- 💻 I`m a **Deep Learning Engineer** specializing in **Computer Vision** .
-- ⚙️ Working on object detection and classification using `YOLO`, `ViTs`, `OpenCV` and other
-- 🎓 Pursuing a bachelor's degree in **Applied Mathematics and Computer Science** at *Perm State University*
-- 🌱 Studying `CV`, `Deep Learning`, `statistics` and `algorithms`
-- 📚 Reading "Deep Learning with PyTorch" by Eli Stevens, Luca Antiga, and Thomas Viehmann
-- :mailbox:How to reach me: [![Badge](https://img.shields.io/badge/Telegram-%232AABEE?logo=telegram)](https://t.me/pomelk1n) [![Badge](https://img.shields.io/badge/Mail-red)](mailto:emelya.kara@yandex.ru)
+<p align="left">
+  Machine Learning Engineer (MLE) - Deep Learning, NLP, Generative AI
+</p>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## About me
+
+* I build ML systems end-to-end: data -> training -> evaluation -> MLOps -> deployment.
+* Core areas: Computer Vision (segmentation, detection, metric learning), NLP and LLM tooling (RAG, agents), real-time inference services.
+* I care about production quality: reproducibility, CI/CD, model registry, observability, and reliable serving.
+* Currently reading: "Machine Learning System Design" by Valerii Babushkin and Arseny Kravchenko.
+
+---
+
+## Tech stack
+
+* Programming: Python (asyncio, multiprocessing), SQL
+* DL/ML: PyTorch, PyTorch Lightning, Transformers, TorchMetrics, scikit-learn, vLLM, Flash-Attention (pad-free), PyTorch Distributed (DP/TP/CP)
+* Data/Storage: PostgreSQL, S3, Polars, Qdrant
+* MLOps/DevOps: ClearML, DVC, LitServe, Docker, GitLab CI, GitHub Actions
+* Backend/Infra: FastAPI, Kafka, Redis, ZeroMQ, Nginx, Traefik
+
+---
+
+## Contacts
+
+* Telegram: [https://t.me/pomelk1n](https://t.me/pomelk1n)
+* Email: [emelya.kara@yandex.ru](mailto:emelya.kara@yandex.ru)
+* GitHub: [https://github.com/Pomelkin](https://github.com/Pomelkin)
+
+---
+
+## Languages and tools
+
 <div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="100" height="100"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" width="100" height="100"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="100" height="100"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" width="100" height="100"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" width="100" height="100"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" width="100" height="100"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="90" height="90" alt="Python" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" width="90" height="90" alt="PyTorch" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" width="90" height="90" alt="FastAPI" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="90" height="90" alt="Docker" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="90" height="90" alt="PostgreSQL" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="90" height="90" alt="Git" />&nbsp;
 </div>
+
 <!--
 **Pomelkin/Pomelkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
