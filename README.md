@@ -34,7 +34,6 @@
 
 * Telegram: [https://t.me/pomelk1n](https://t.me/pomelk1n)
 * Email: [emelya.kara@yandex.ru](mailto:emelya.kara@yandex.ru)
-* GitHub: [https://github.com/Pomelkin](https://github.com/Pomelkin)
 
 ---
 
