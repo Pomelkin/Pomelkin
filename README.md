@@ -20,16 +20,6 @@
 
 ---
 
-## Tech stack
-
-* Programming: Python (asyncio, multiprocessing), SQL
-* DL/ML: PyTorch, PyTorch Lightning, Transformers, TorchMetrics, scikit-learn, vLLM, Flash-Attention (pad-free), PyTorch Distributed (DP/TP/CP)
-* Data/Storage: PostgreSQL, S3, Polars, Qdrant
-* MLOps/DevOps: ClearML, DVC, LitServe, Docker, GitLab CI, GitHub Actions
-* Backend/Infra: FastAPI, Kafka, Redis, ZeroMQ, Nginx, Traefik
-
----
-
 ## Contacts
 
 * Telegram: [https://t.me/pomelk1n](https://t.me/pomelk1n)
